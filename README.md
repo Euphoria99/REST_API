@@ -7,7 +7,7 @@ This is a REST API built with Node JS,Express and MongoDB | CRUD API.
 ```
 npm install
 ```
-Please make to create.env file and create variable DB_CONNECTION with the values specified.
+Please make sure  to create.env file and create variable DB_CONNECTION with the values specified.
 
 ```
 nodemon index.js
